@@ -1,8 +1,6 @@
 package com.bridgelabz;
 
-import java.sql.SQLOutput;
-
-public class Main {
+public class PrimeMain {
 
     public static void main(String[] args) {
       //  int array[] = new int[100];
